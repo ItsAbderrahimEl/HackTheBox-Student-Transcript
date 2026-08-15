@@ -1,10 +1,10 @@
 # 🟩 HTB Academy — Student Transcript
 
-**Student:** Abderrahim El Ouariachi
-**ID:** #1016479
-**Date:** 23-03-2026
-**Ranking:** Top 1%
-**Targets Compromised:** 319
+**Student:** Abderrahim El Ouariachi  
+**ID:** #1016479  
+**Date:** 15-08-2026  
+**Ranking:** Top 1%  
+**Targets Compromised:** 367
 
 ---
 
@@ -12,23 +12,24 @@
 
 | Metric | Value |
 |---|---|
-| Paths Completed | 5 |
-| Targets Compromised | 319 |
+| Paths Completed | 6 |
+| Targets Compromised | 367 |
 | Global Ranking | Top 1% |
-| Modules (100% Complete) | 46 |
-| Modules (In Progress) | 4 |
+| Modules (100% Complete) | 59 |
+| Modules (In Progress) | 2 |
 
 ---
 
 ## ✅ Completed Paths
 
 | Path | Modules | Difficulty |
-|---|---|---|
+|---|---:|---|
 | Web Penetration Tester | 20 | Medium |
 | Basic Toolset | 7 | Medium |
 | Cracking into Hack the Box | 3 | Easy |
 | Operating System Fundamentals | 4 | Easy |
 | Information Security Foundations | 12 | Easy |
+| SOC Analyst Prerequisites | 10 | Easy |
 
 ---
 
@@ -37,7 +38,7 @@
 ### ✅ Completed (100%)
 
 | Module | Sections | Difficulty | Category |
-|---|---|---|---|
+|---|---:|---|---|
 | Intro to Academy | 8 | Fundamental | General |
 | Hacking WordPress | 16 | Easy | Offensive |
 | Learning Process | 20 | Fundamental | General |
@@ -52,7 +53,7 @@
 | Introduction to Networking | 21 | Fundamental | General |
 | Using the Metasploit Framework | 15 | Easy | Offensive |
 | JavaScript Deobfuscation | 11 | Easy | Defensive |
-| Windows Fundamentals | 14 | Fundamental | General |
+| Windows Fundamentals | 15 | Fundamental | General |
 | Attacking Web Applications with Ffuf | 13 | Easy | Offensive |
 | Login Brute Forcing | 13 | Easy | Offensive |
 | SQLMap Essentials | 11 | Easy | Offensive |
@@ -61,6 +62,7 @@
 | Getting Started | 23 | Fundamental | Offensive |
 | Broken Authentication | 14 | Medium | Offensive |
 | Intro to Network Traffic Analysis | 15 | Medium | General |
+| Intro to Assembly Language | 24 | Medium | General |
 | Setting Up | 22 | Fundamental | General |
 | Introduction to Python 3 | 14 | Easy | General |
 | Penetration Testing Process | 15 | Fundamental | General |
@@ -69,23 +71,30 @@
 | Command Injections | 12 | Medium | Offensive |
 | Using Web Proxies | 15 | Easy | Offensive |
 | Footprinting | 21 | Medium | Offensive |
+| Attacking Common Applications | 33 | Medium | Offensive |
 | Shells & Payloads | 17 | Medium | Offensive |
 | Attacking Common Services | 19 | Medium | Offensive |
 | Web Attacks | 18 | Medium | Offensive |
 | Information Gathering - Web Edition | 19 | Easy | Offensive |
 | File Upload Attacks | 11 | Medium | Offensive |
 | Server-side Attacks | 19 | Medium | Offensive |
+| Password Attacks | 26 | Medium | Offensive |
+| Incident Handling Process | 11 | Easy | General |
 | Session Security | 14 | Medium | Offensive |
 | Pivoting, Tunneling, and Port Forwarding | 18 | Medium | Offensive |
 | Web Service & API Attacks | 13 | Medium | Offensive |
 | Bug Bounty Hunting Process | 6 | Easy | General |
 | MacOS Fundamentals | 11 | Fundamental | General |
+| Documentation & Reporting | 8 | Easy | General |
 | Introduction to Windows Command Line | 23 | Easy | General |
 | Android Fundamentals | 20 | Fundamental | General |
 | Brief Intro to Hardware Attacks | 8 | Medium | General |
+| Security Incident Reporting | 5 | Easy | General |
 | API Attacks | 13 | Medium | Offensive |
+| Attacking GraphQL | 9 | Medium | Offensive |
 | Web Fuzzing | 12 | Easy | Offensive |
 | Network Foundations | 12 | Fundamental | General |
+| Fundamentals of AI | 24 | Medium | General |
 | Introduction to Information Security | 24 | Fundamental | General |
 | Introduction to Penetration Testing | 21 | Fundamental | Offensive |
 | Pentest in a Nutshell | 24 | Easy | Offensive |
@@ -95,26 +104,26 @@
 ### 🔄 In Progress
 
 | Module | Sections | Difficulty | Category | Progress |
-|---|---|---|---|---|
-| Intro to Assembly Language | 24 | Medium | General | 45.83% |
-| Attacking Common Applications | 33 | Medium | Offensive | 24.24% |
-| Password Attacks | 26 | Medium | Offensive | 46.15% |
-| Documentation & Reporting | 8 | Easy | General | 75% |
-| Fundamentals of AI | 24 | Medium | General | 45.83% |
-| Attacking GraphQL | 9 | Medium | Offensive | 11.11% |
+|---|---:|---|---|---:|
+| Stack-Based Buffer Overflows on Linux x86 | 13 | Medium | Offensive | 38.46% |
+| Applications of AI in InfoSec | 25 | Medium | General | 8% |
 
 ---
 
 ## 🧠 Skill Coverage
 
-- **Offensive Security** — Web attacks, network exploitation, privilege escalation, API/GraphQL attacks, payload delivery
-- **Reconnaissance** — Footprinting, OSINT, web crawling, DNS enumeration, Nmap scanning
-- **Web Application Security** — SQLi, XSS, IDOR, SSRF, SSTI, broken auth, session hijacking, file upload/inclusion
-- **Tooling** — Metasploit, Burp Suite, OWASP ZAP, Hydra, Hashcat, SQLMap, Ffuf
+- **Offensive Security** — Web attacks, network exploitation, binary exploitation fundamentals, privilege escalation, API/GraphQL attacks, payload delivery
+- **Reconnaissance** — Footprinting, OSINT, web crawling, DNS enumeration, HTTP analysis, technology fingerprinting, Nmap scanning
+- **Web Application Security** — SQLi, XSS, IDOR, XXE, SSRF, SSTI, broken authentication, session security, file upload/inclusion, command injection
+- **API Security** — Web services, REST-style APIs, OWASP API Security Top 10, GraphQL security
+- **Tooling** — Metasploit, Burp Suite, OWASP ZAP, Hydra, Medusa, Hashcat, SQLMap, Ffuf, Nmap
 - **Scripting & Automation** — Bash scripting, Python 3
-- **OS Proficiency** — Linux, Windows, macOS, Android
-- **Networking** — TCP/IP, OSI model, traffic analysis, pivoting, tunneling, port forwarding
-- **Reporting** — Vulnerability assessment, documentation & reporting, bug bounty process
+- **Operating Systems** — Linux, Windows, macOS, Android
+- **Networking** — TCP/IP, OSI model, network enumeration, traffic analysis, pivoting, tunneling, port forwarding
+- **Active Directory** — AD fundamentals, architecture, common flaws, misconfigurations, and security concepts
+- **Binary Exploitation** — Assembly fundamentals and Linux x86 stack-based buffer overflows
+- **Reporting & Assessment** — Penetration testing process, vulnerability assessment, documentation & reporting, security incident reporting, bug bounty process
+- **Artificial Intelligence** — AI fundamentals, supervised/unsupervised/reinforcement learning, with AI-for-InfoSec applications currently in progress
 
 ---
 
