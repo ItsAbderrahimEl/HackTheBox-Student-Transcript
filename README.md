@@ -2,9 +2,9 @@
 
 **Student:** Abderrahim El Ouariachi  
 **ID:** #1016479  
-**Date:** 15-08-2026  
+**Date:** 19-10-2026  
 **Ranking:** Top 1%  
-**Targets Compromised:** 367
+**Targets Compromised:** 391
 
 ---
 
@@ -13,10 +13,10 @@
 | Metric | Value |
 |---|---|
 | Paths Completed | 6 |
-| Targets Compromised | 367 |
+| Targets Compromised | 391 |
 | Global Ranking | Top 1% |
-| Modules (100% Complete) | 59 |
-| Modules (In Progress) | 2 |
+| Modules (100% Complete) | 62 |
+| Modules (In Progress) | 5 |
 
 ---
 
@@ -53,7 +53,6 @@
 | Introduction to Networking | 21 | Fundamental | General |
 | Using the Metasploit Framework | 15 | Easy | Offensive |
 | JavaScript Deobfuscation | 11 | Easy | Defensive |
-| Windows Fundamentals | 15 | Fundamental | General |
 | Attacking Web Applications with Ffuf | 13 | Easy | Offensive |
 | Login Brute Forcing | 13 | Easy | Offensive |
 | SQLMap Essentials | 11 | Easy | Offensive |
@@ -98,6 +97,10 @@
 | Introduction to Information Security | 24 | Fundamental | General |
 | Introduction to Penetration Testing | 21 | Fundamental | Offensive |
 | Pentest in a Nutshell | 24 | Easy | Offensive |
+| Network Packet Analysis | 6 | Easy | Defensive |
+| Public Key Infrastructure | 6 | Easy | Defensive |
+| Phishing Email Analysis (LetsDefend) | 8 | Easy | Defensive |
+| Windows Fundamentals (LetsDefend) | 15 | Easy | General |
 
 ---
 
@@ -105,6 +108,9 @@
 
 | Module | Sections | Difficulty | Category | Progress |
 |---|---:|---|---|---:|
+| Windows Fundamentals | 15 | Fundamental | General | 93.33% |
+| Threat Hunting with SIEM | 9 | Hard | Defensive | 55.56% |
+| Active Directory Enumeration & Attacks | 36 | Medium | Offensive | 41.67% |
 | Stack-Based Buffer Overflows on Linux x86 | 13 | Medium | Offensive | 38.46% |
 | Applications of AI in InfoSec | 25 | Medium | General | 8% |
 
@@ -116,11 +122,12 @@
 - **Reconnaissance** — Footprinting, OSINT, web crawling, DNS enumeration, HTTP analysis, technology fingerprinting, Nmap scanning
 - **Web Application Security** — SQLi, XSS, IDOR, XXE, SSRF, SSTI, broken authentication, session security, file upload/inclusion, command injection
 - **API Security** — Web services, REST-style APIs, OWASP API Security Top 10, GraphQL security
+- **Defensive Security / Blue Team** — Network packet analysis, phishing email analysis, Public Key Infrastructure (PKI), incident handling and reporting, with SIEM-based threat hunting currently in progress
 - **Tooling** — Metasploit, Burp Suite, OWASP ZAP, Hydra, Medusa, Hashcat, SQLMap, Ffuf, Nmap
 - **Scripting & Automation** — Bash scripting, Python 3
-- **Operating Systems** — Linux, Windows, macOS, Android
+- **Operating Systems** — Linux, Windows (including event logs and permissions management), macOS, Android
 - **Networking** — TCP/IP, OSI model, network enumeration, traffic analysis, pivoting, tunneling, port forwarding
-- **Active Directory** — AD fundamentals, architecture, common flaws, misconfigurations, and security concepts
+- **Active Directory** — AD fundamentals, architecture, common flaws, misconfigurations, and security concepts, with hands-on AD enumeration and attacks currently in progress
 - **Binary Exploitation** — Assembly fundamentals and Linux x86 stack-based buffer overflows
 - **Reporting & Assessment** — Penetration testing process, vulnerability assessment, documentation & reporting, security incident reporting, bug bounty process
 - **Artificial Intelligence** — AI fundamentals, supervised/unsupervised/reinforcement learning, with AI-for-InfoSec applications currently in progress
